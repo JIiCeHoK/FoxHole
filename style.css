@@ -221,7 +221,8 @@ footer {
 .italic {
   font-style: italic;
 }
-.Anna {
+.anna {
   font-size: 35px;
   color: green;
+  text-align: center;
 }
